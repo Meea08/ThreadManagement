@@ -1,0 +1,390 @@
+SIMULATION STARTED WITH 4 CLIENTS and 2 QUEUES.
+
+
+
+>>>>>>>>>>>0 SECONDS
+>>>>Waiting clients:
+Client 2 -- arrival time: 5 -- service time: 4
+Client 3 -- arrival time: 8 -- service time: 4
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>1 SECONDS
+>>>>Waiting clients:
+Client 2 -- arrival time: 5 -- service time: 4
+Client 3 -- arrival time: 8 -- service time: 4
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>2 SECONDS
+>>>>Waiting clients:
+Client 2 -- arrival time: 5 -- service time: 4
+Client 3 -- arrival time: 8 -- service time: 4
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>3 SECONDS
+>>>>Waiting clients:
+Client 2 -- arrival time: 5 -- service time: 4
+Client 3 -- arrival time: 8 -- service time: 4
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>4 SECONDS
+>>>>Waiting clients:
+Client 2 -- arrival time: 5 -- service time: 4
+Client 3 -- arrival time: 8 -- service time: 4
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>5 SECONDS
+>>>>Waiting clients:
+Client 3 -- arrival time: 8 -- service time: 4
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 has clients:
+Client 2 -- arrival time: 5 -- service time: 4
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>6 SECONDS
+>>>>Waiting clients:
+Client 3 -- arrival time: 8 -- service time: 4
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 has clients:
+Client 2 -- arrival time: 5 -- service time: 3
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>7 SECONDS
+>>>>Waiting clients:
+Client 3 -- arrival time: 8 -- service time: 4
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 has clients:
+Client 2 -- arrival time: 5 -- service time: 2
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>8 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 has clients:
+Client 2 -- arrival time: 5 -- service time: 1
+>>>>Queue 2 has clients:
+Client 3 -- arrival time: 8 -- service time: 4
+
+>>>>>>>>>>>9 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 has clients:
+Client 3 -- arrival time: 8 -- service time: 3
+
+>>>>>>>>>>>10 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 has clients:
+Client 3 -- arrival time: 8 -- service time: 2
+
+>>>>>>>>>>>11 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 has clients:
+Client 3 -- arrival time: 8 -- service time: 1
+
+>>>>>>>>>>>12 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>13 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>14 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>15 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>16 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>17 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>18 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>19 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>20 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>21 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>22 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 23 -- service time: 3
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>23 SECONDS
+>>>>Waiting clients:
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 has clients:
+Client 4 -- arrival time: 23 -- service time: 3
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>24 SECONDS
+>>>>Waiting clients:
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 has clients:
+Client 4 -- arrival time: 23 -- service time: 2
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>25 SECONDS
+>>>>Waiting clients:
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 has clients:
+Client 4 -- arrival time: 23 -- service time: 1
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>26 SECONDS
+>>>>Waiting clients:
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>27 SECONDS
+>>>>Waiting clients:
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>28 SECONDS
+>>>>Waiting clients:
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>29 SECONDS
+>>>>Waiting clients:
+Client 1 -- arrival time: 30 -- service time: 3
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>30 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 has clients:
+Client 1 -- arrival time: 30 -- service time: 3
+
+>>>>>>>>>>>31 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 has clients:
+Client 1 -- arrival time: 30 -- service time: 2
+
+>>>>>>>>>>>32 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 has clients:
+Client 1 -- arrival time: 30 -- service time: 1
+
+>>>>>>>>>>>33 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>34 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>35 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>36 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>37 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>38 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>39 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>40 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>41 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>42 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>43 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>44 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>45 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>46 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>47 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>48 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>49 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>50 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>51 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>52 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>53 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>54 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>55 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>56 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>57 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>58 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>59 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+
+>>>>>>>>>>>60 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+SIMULATION ENDED.
+

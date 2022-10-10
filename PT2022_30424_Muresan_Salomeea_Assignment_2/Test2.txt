@@ -1,0 +1,1953 @@
+SIMULATION STARTED WITH 50 CLIENTS and 5 QUEUES.
+
+
+
+>>>>>>>>>>>0 SECONDS
+>>>>Waiting clients:
+Client 1 -- arrival time: 3 -- service time: 4
+Client 3 -- arrival time: 4 -- service time: 7
+Client 24 -- arrival time: 4 -- service time: 4
+Client 25 -- arrival time: 4 -- service time: 2
+Client 4 -- arrival time: 6 -- service time: 6
+Client 30 -- arrival time: 6 -- service time: 5
+Client 37 -- arrival time: 6 -- service time: 6
+Client 13 -- arrival time: 9 -- service time: 5
+Client 42 -- arrival time: 10 -- service time: 3
+Client 16 -- arrival time: 11 -- service time: 7
+Client 21 -- arrival time: 13 -- service time: 5
+Client 29 -- arrival time: 13 -- service time: 2
+Client 31 -- arrival time: 13 -- service time: 5
+Client 41 -- arrival time: 14 -- service time: 6
+Client 49 -- arrival time: 15 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>1 SECONDS
+>>>>Waiting clients:
+Client 1 -- arrival time: 3 -- service time: 4
+Client 3 -- arrival time: 4 -- service time: 7
+Client 24 -- arrival time: 4 -- service time: 4
+Client 25 -- arrival time: 4 -- service time: 2
+Client 4 -- arrival time: 6 -- service time: 6
+Client 30 -- arrival time: 6 -- service time: 5
+Client 37 -- arrival time: 6 -- service time: 6
+Client 13 -- arrival time: 9 -- service time: 5
+Client 42 -- arrival time: 10 -- service time: 3
+Client 16 -- arrival time: 11 -- service time: 7
+Client 21 -- arrival time: 13 -- service time: 5
+Client 29 -- arrival time: 13 -- service time: 2
+Client 31 -- arrival time: 13 -- service time: 5
+Client 41 -- arrival time: 14 -- service time: 6
+Client 49 -- arrival time: 15 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>2 SECONDS
+>>>>Waiting clients:
+Client 1 -- arrival time: 3 -- service time: 4
+Client 3 -- arrival time: 4 -- service time: 7
+Client 24 -- arrival time: 4 -- service time: 4
+Client 25 -- arrival time: 4 -- service time: 2
+Client 4 -- arrival time: 6 -- service time: 6
+Client 30 -- arrival time: 6 -- service time: 5
+Client 37 -- arrival time: 6 -- service time: 6
+Client 13 -- arrival time: 9 -- service time: 5
+Client 42 -- arrival time: 10 -- service time: 3
+Client 16 -- arrival time: 11 -- service time: 7
+Client 21 -- arrival time: 13 -- service time: 5
+Client 29 -- arrival time: 13 -- service time: 2
+Client 31 -- arrival time: 13 -- service time: 5
+Client 41 -- arrival time: 14 -- service time: 6
+Client 49 -- arrival time: 15 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>3 SECONDS
+>>>>Waiting clients:
+Client 3 -- arrival time: 4 -- service time: 7
+Client 24 -- arrival time: 4 -- service time: 4
+Client 25 -- arrival time: 4 -- service time: 2
+Client 4 -- arrival time: 6 -- service time: 6
+Client 30 -- arrival time: 6 -- service time: 5
+Client 37 -- arrival time: 6 -- service time: 6
+Client 13 -- arrival time: 9 -- service time: 5
+Client 42 -- arrival time: 10 -- service time: 3
+Client 16 -- arrival time: 11 -- service time: 7
+Client 21 -- arrival time: 13 -- service time: 5
+Client 29 -- arrival time: 13 -- service time: 2
+Client 31 -- arrival time: 13 -- service time: 5
+Client 41 -- arrival time: 14 -- service time: 6
+Client 49 -- arrival time: 15 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 1 -- arrival time: 3 -- service time: 4
+>>>>Queue 2 is empty
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>4 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 6 -- service time: 6
+Client 30 -- arrival time: 6 -- service time: 5
+Client 37 -- arrival time: 6 -- service time: 6
+Client 13 -- arrival time: 9 -- service time: 5
+Client 42 -- arrival time: 10 -- service time: 3
+Client 16 -- arrival time: 11 -- service time: 7
+Client 21 -- arrival time: 13 -- service time: 5
+Client 29 -- arrival time: 13 -- service time: 2
+Client 31 -- arrival time: 13 -- service time: 5
+Client 41 -- arrival time: 14 -- service time: 6
+Client 49 -- arrival time: 15 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 1 -- arrival time: 3 -- service time: 3
+>>>>Queue 2 has clients:
+Client 3 -- arrival time: 4 -- service time: 7
+>>>>Queue 3 has clients:
+Client 24 -- arrival time: 4 -- service time: 4
+>>>>Queue 4 has clients:
+Client 25 -- arrival time: 4 -- service time: 2
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>5 SECONDS
+>>>>Waiting clients:
+Client 4 -- arrival time: 6 -- service time: 6
+Client 30 -- arrival time: 6 -- service time: 5
+Client 37 -- arrival time: 6 -- service time: 6
+Client 13 -- arrival time: 9 -- service time: 5
+Client 42 -- arrival time: 10 -- service time: 3
+Client 16 -- arrival time: 11 -- service time: 7
+Client 21 -- arrival time: 13 -- service time: 5
+Client 29 -- arrival time: 13 -- service time: 2
+Client 31 -- arrival time: 13 -- service time: 5
+Client 41 -- arrival time: 14 -- service time: 6
+Client 49 -- arrival time: 15 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 1 -- arrival time: 3 -- service time: 2
+>>>>Queue 2 has clients:
+Client 3 -- arrival time: 4 -- service time: 6
+>>>>Queue 3 has clients:
+Client 24 -- arrival time: 4 -- service time: 3
+>>>>Queue 4 has clients:
+Client 25 -- arrival time: 4 -- service time: 1
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>6 SECONDS
+>>>>Waiting clients:
+Client 13 -- arrival time: 9 -- service time: 5
+Client 42 -- arrival time: 10 -- service time: 3
+Client 16 -- arrival time: 11 -- service time: 7
+Client 21 -- arrival time: 13 -- service time: 5
+Client 29 -- arrival time: 13 -- service time: 2
+Client 31 -- arrival time: 13 -- service time: 5
+Client 41 -- arrival time: 14 -- service time: 6
+Client 49 -- arrival time: 15 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 1 -- arrival time: 3 -- service time: 1
+Client 37 -- arrival time: 6 -- service time: 6
+>>>>Queue 2 has clients:
+Client 3 -- arrival time: 4 -- service time: 5
+>>>>Queue 3 has clients:
+Client 24 -- arrival time: 4 -- service time: 2
+>>>>Queue 4 has clients:
+Client 30 -- arrival time: 6 -- service time: 5
+>>>>Queue 5 has clients:
+Client 4 -- arrival time: 6 -- service time: 6
+
+>>>>>>>>>>>7 SECONDS
+>>>>Waiting clients:
+Client 13 -- arrival time: 9 -- service time: 5
+Client 42 -- arrival time: 10 -- service time: 3
+Client 16 -- arrival time: 11 -- service time: 7
+Client 21 -- arrival time: 13 -- service time: 5
+Client 29 -- arrival time: 13 -- service time: 2
+Client 31 -- arrival time: 13 -- service time: 5
+Client 41 -- arrival time: 14 -- service time: 6
+Client 49 -- arrival time: 15 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 37 -- arrival time: 6 -- service time: 6
+>>>>Queue 2 has clients:
+Client 3 -- arrival time: 4 -- service time: 4
+>>>>Queue 3 has clients:
+Client 24 -- arrival time: 4 -- service time: 1
+>>>>Queue 4 has clients:
+Client 30 -- arrival time: 6 -- service time: 4
+>>>>Queue 5 has clients:
+Client 4 -- arrival time: 6 -- service time: 5
+
+>>>>>>>>>>>8 SECONDS
+>>>>Waiting clients:
+Client 13 -- arrival time: 9 -- service time: 5
+Client 42 -- arrival time: 10 -- service time: 3
+Client 16 -- arrival time: 11 -- service time: 7
+Client 21 -- arrival time: 13 -- service time: 5
+Client 29 -- arrival time: 13 -- service time: 2
+Client 31 -- arrival time: 13 -- service time: 5
+Client 41 -- arrival time: 14 -- service time: 6
+Client 49 -- arrival time: 15 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 37 -- arrival time: 6 -- service time: 5
+>>>>Queue 2 has clients:
+Client 3 -- arrival time: 4 -- service time: 3
+>>>>Queue 3 is empty
+>>>>Queue 4 has clients:
+Client 30 -- arrival time: 6 -- service time: 3
+>>>>Queue 5 has clients:
+Client 4 -- arrival time: 6 -- service time: 4
+
+>>>>>>>>>>>9 SECONDS
+>>>>Waiting clients:
+Client 42 -- arrival time: 10 -- service time: 3
+Client 16 -- arrival time: 11 -- service time: 7
+Client 21 -- arrival time: 13 -- service time: 5
+Client 29 -- arrival time: 13 -- service time: 2
+Client 31 -- arrival time: 13 -- service time: 5
+Client 41 -- arrival time: 14 -- service time: 6
+Client 49 -- arrival time: 15 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 37 -- arrival time: 6 -- service time: 4
+>>>>Queue 2 has clients:
+Client 3 -- arrival time: 4 -- service time: 2
+>>>>Queue 3 has clients:
+Client 13 -- arrival time: 9 -- service time: 5
+>>>>Queue 4 has clients:
+Client 30 -- arrival time: 6 -- service time: 2
+>>>>Queue 5 has clients:
+Client 4 -- arrival time: 6 -- service time: 3
+
+>>>>>>>>>>>10 SECONDS
+>>>>Waiting clients:
+Client 16 -- arrival time: 11 -- service time: 7
+Client 21 -- arrival time: 13 -- service time: 5
+Client 29 -- arrival time: 13 -- service time: 2
+Client 31 -- arrival time: 13 -- service time: 5
+Client 41 -- arrival time: 14 -- service time: 6
+Client 49 -- arrival time: 15 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 37 -- arrival time: 6 -- service time: 3
+>>>>Queue 2 has clients:
+Client 3 -- arrival time: 4 -- service time: 1
+>>>>Queue 3 has clients:
+Client 13 -- arrival time: 9 -- service time: 4
+>>>>Queue 4 has clients:
+Client 30 -- arrival time: 6 -- service time: 1
+>>>>Queue 5 has clients:
+Client 4 -- arrival time: 6 -- service time: 2
+Client 42 -- arrival time: 10 -- service time: 3
+
+>>>>>>>>>>>11 SECONDS
+>>>>Waiting clients:
+Client 21 -- arrival time: 13 -- service time: 5
+Client 29 -- arrival time: 13 -- service time: 2
+Client 31 -- arrival time: 13 -- service time: 5
+Client 41 -- arrival time: 14 -- service time: 6
+Client 49 -- arrival time: 15 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 37 -- arrival time: 6 -- service time: 2
+>>>>Queue 2 has clients:
+Client 16 -- arrival time: 11 -- service time: 7
+>>>>Queue 3 has clients:
+Client 13 -- arrival time: 9 -- service time: 3
+>>>>Queue 4 is empty
+>>>>Queue 5 has clients:
+Client 4 -- arrival time: 6 -- service time: 1
+Client 42 -- arrival time: 10 -- service time: 3
+
+>>>>>>>>>>>12 SECONDS
+>>>>Waiting clients:
+Client 21 -- arrival time: 13 -- service time: 5
+Client 29 -- arrival time: 13 -- service time: 2
+Client 31 -- arrival time: 13 -- service time: 5
+Client 41 -- arrival time: 14 -- service time: 6
+Client 49 -- arrival time: 15 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 37 -- arrival time: 6 -- service time: 1
+>>>>Queue 2 has clients:
+Client 16 -- arrival time: 11 -- service time: 6
+>>>>Queue 3 has clients:
+Client 13 -- arrival time: 9 -- service time: 2
+>>>>Queue 4 is empty
+>>>>Queue 5 has clients:
+Client 42 -- arrival time: 10 -- service time: 3
+
+>>>>>>>>>>>13 SECONDS
+>>>>Waiting clients:
+Client 41 -- arrival time: 14 -- service time: 6
+Client 49 -- arrival time: 15 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 is empty
+>>>>Queue 2 has clients:
+Client 16 -- arrival time: 11 -- service time: 5
+>>>>Queue 3 has clients:
+Client 13 -- arrival time: 9 -- service time: 1
+Client 29 -- arrival time: 13 -- service time: 2
+>>>>Queue 4 has clients:
+Client 21 -- arrival time: 13 -- service time: 5
+>>>>Queue 5 has clients:
+Client 42 -- arrival time: 10 -- service time: 2
+Client 31 -- arrival time: 13 -- service time: 5
+
+>>>>>>>>>>>14 SECONDS
+>>>>Waiting clients:
+Client 49 -- arrival time: 15 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 41 -- arrival time: 14 -- service time: 6
+>>>>Queue 2 has clients:
+Client 16 -- arrival time: 11 -- service time: 4
+>>>>Queue 3 has clients:
+Client 29 -- arrival time: 13 -- service time: 2
+>>>>Queue 4 has clients:
+Client 21 -- arrival time: 13 -- service time: 4
+>>>>Queue 5 has clients:
+Client 42 -- arrival time: 10 -- service time: 1
+Client 31 -- arrival time: 13 -- service time: 5
+
+>>>>>>>>>>>15 SECONDS
+>>>>Waiting clients:
+Client 12 -- arrival time: 16 -- service time: 5
+Client 18 -- arrival time: 16 -- service time: 6
+Client 19 -- arrival time: 16 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 41 -- arrival time: 14 -- service time: 5
+>>>>Queue 2 has clients:
+Client 16 -- arrival time: 11 -- service time: 3
+>>>>Queue 3 has clients:
+Client 29 -- arrival time: 13 -- service time: 1
+Client 49 -- arrival time: 15 -- service time: 2
+>>>>Queue 4 has clients:
+Client 21 -- arrival time: 13 -- service time: 3
+>>>>Queue 5 has clients:
+Client 31 -- arrival time: 13 -- service time: 5
+
+>>>>>>>>>>>16 SECONDS
+>>>>Waiting clients:
+Client 14 -- arrival time: 17 -- service time: 5
+Client 35 -- arrival time: 17 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 41 -- arrival time: 14 -- service time: 4
+>>>>Queue 2 has clients:
+Client 16 -- arrival time: 11 -- service time: 2
+Client 19 -- arrival time: 16 -- service time: 3
+>>>>Queue 3 has clients:
+Client 49 -- arrival time: 15 -- service time: 2
+Client 18 -- arrival time: 16 -- service time: 6
+>>>>Queue 4 has clients:
+Client 21 -- arrival time: 13 -- service time: 2
+Client 12 -- arrival time: 16 -- service time: 5
+>>>>Queue 5 has clients:
+Client 31 -- arrival time: 13 -- service time: 4
+Client 47 -- arrival time: 16 -- service time: 6
+
+>>>>>>>>>>>17 SECONDS
+>>>>Waiting clients:
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 41 -- arrival time: 14 -- service time: 3
+Client 14 -- arrival time: 17 -- service time: 5
+>>>>Queue 2 has clients:
+Client 16 -- arrival time: 11 -- service time: 1
+Client 19 -- arrival time: 16 -- service time: 3
+Client 35 -- arrival time: 17 -- service time: 4
+>>>>Queue 3 has clients:
+Client 49 -- arrival time: 15 -- service time: 1
+Client 18 -- arrival time: 16 -- service time: 6
+>>>>Queue 4 has clients:
+Client 21 -- arrival time: 13 -- service time: 1
+Client 12 -- arrival time: 16 -- service time: 5
+>>>>Queue 5 has clients:
+Client 31 -- arrival time: 13 -- service time: 3
+Client 47 -- arrival time: 16 -- service time: 6
+
+>>>>>>>>>>>18 SECONDS
+>>>>Waiting clients:
+Client 34 -- arrival time: 19 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 41 -- arrival time: 14 -- service time: 2
+Client 14 -- arrival time: 17 -- service time: 5
+>>>>Queue 2 has clients:
+Client 19 -- arrival time: 16 -- service time: 3
+Client 35 -- arrival time: 17 -- service time: 4
+>>>>Queue 3 has clients:
+Client 18 -- arrival time: 16 -- service time: 6
+>>>>Queue 4 has clients:
+Client 12 -- arrival time: 16 -- service time: 5
+>>>>Queue 5 has clients:
+Client 31 -- arrival time: 13 -- service time: 2
+Client 47 -- arrival time: 16 -- service time: 6
+
+>>>>>>>>>>>19 SECONDS
+>>>>Waiting clients:
+Client 33 -- arrival time: 20 -- service time: 6
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 41 -- arrival time: 14 -- service time: 1
+Client 14 -- arrival time: 17 -- service time: 5
+>>>>Queue 2 has clients:
+Client 19 -- arrival time: 16 -- service time: 2
+Client 35 -- arrival time: 17 -- service time: 4
+>>>>Queue 3 has clients:
+Client 18 -- arrival time: 16 -- service time: 5
+>>>>Queue 4 has clients:
+Client 12 -- arrival time: 16 -- service time: 4
+Client 34 -- arrival time: 19 -- service time: 3
+>>>>Queue 5 has clients:
+Client 31 -- arrival time: 13 -- service time: 1
+Client 47 -- arrival time: 16 -- service time: 6
+
+>>>>>>>>>>>20 SECONDS
+>>>>Waiting clients:
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 14 -- arrival time: 17 -- service time: 5
+>>>>Queue 2 has clients:
+Client 19 -- arrival time: 16 -- service time: 1
+Client 35 -- arrival time: 17 -- service time: 4
+>>>>Queue 3 has clients:
+Client 18 -- arrival time: 16 -- service time: 4
+Client 33 -- arrival time: 20 -- service time: 6
+>>>>Queue 4 has clients:
+Client 12 -- arrival time: 16 -- service time: 3
+Client 34 -- arrival time: 19 -- service time: 3
+>>>>Queue 5 has clients:
+Client 47 -- arrival time: 16 -- service time: 6
+
+>>>>>>>>>>>21 SECONDS
+>>>>Waiting clients:
+Client 32 -- arrival time: 22 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 14 -- arrival time: 17 -- service time: 4
+>>>>Queue 2 has clients:
+Client 35 -- arrival time: 17 -- service time: 4
+>>>>Queue 3 has clients:
+Client 18 -- arrival time: 16 -- service time: 3
+Client 33 -- arrival time: 20 -- service time: 6
+>>>>Queue 4 has clients:
+Client 12 -- arrival time: 16 -- service time: 2
+Client 34 -- arrival time: 19 -- service time: 3
+>>>>Queue 5 has clients:
+Client 47 -- arrival time: 16 -- service time: 5
+
+>>>>>>>>>>>22 SECONDS
+>>>>Waiting clients:
+Client 20 -- arrival time: 23 -- service time: 4
+Client 23 -- arrival time: 23 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 14 -- arrival time: 17 -- service time: 3
+>>>>Queue 2 has clients:
+Client 35 -- arrival time: 17 -- service time: 3
+>>>>Queue 3 has clients:
+Client 18 -- arrival time: 16 -- service time: 2
+Client 33 -- arrival time: 20 -- service time: 6
+>>>>Queue 4 has clients:
+Client 12 -- arrival time: 16 -- service time: 1
+Client 34 -- arrival time: 19 -- service time: 3
+Client 32 -- arrival time: 22 -- service time: 2
+>>>>Queue 5 has clients:
+Client 47 -- arrival time: 16 -- service time: 4
+
+>>>>>>>>>>>23 SECONDS
+>>>>Waiting clients:
+Client 46 -- arrival time: 24 -- service time: 4
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 14 -- arrival time: 17 -- service time: 2
+Client 23 -- arrival time: 23 -- service time: 2
+>>>>Queue 2 has clients:
+Client 35 -- arrival time: 17 -- service time: 2
+Client 38 -- arrival time: 23 -- service time: 5
+>>>>Queue 3 has clients:
+Client 18 -- arrival time: 16 -- service time: 1
+Client 33 -- arrival time: 20 -- service time: 6
+>>>>Queue 4 has clients:
+Client 34 -- arrival time: 19 -- service time: 3
+Client 32 -- arrival time: 22 -- service time: 2
+>>>>Queue 5 has clients:
+Client 47 -- arrival time: 16 -- service time: 3
+Client 20 -- arrival time: 23 -- service time: 4
+
+>>>>>>>>>>>24 SECONDS
+>>>>Waiting clients:
+Client 10 -- arrival time: 25 -- service time: 7
+Client 27 -- arrival time: 25 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 14 -- arrival time: 17 -- service time: 1
+Client 23 -- arrival time: 23 -- service time: 2
+>>>>Queue 2 has clients:
+Client 35 -- arrival time: 17 -- service time: 1
+Client 38 -- arrival time: 23 -- service time: 5
+>>>>Queue 3 has clients:
+Client 33 -- arrival time: 20 -- service time: 6
+>>>>Queue 4 has clients:
+Client 34 -- arrival time: 19 -- service time: 2
+Client 32 -- arrival time: 22 -- service time: 2
+Client 46 -- arrival time: 24 -- service time: 4
+>>>>Queue 5 has clients:
+Client 47 -- arrival time: 16 -- service time: 2
+Client 20 -- arrival time: 23 -- service time: 4
+
+>>>>>>>>>>>25 SECONDS
+>>>>Waiting clients:
+Client 9 -- arrival time: 26 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 23 -- arrival time: 23 -- service time: 2
+Client 10 -- arrival time: 25 -- service time: 7
+>>>>Queue 2 has clients:
+Client 38 -- arrival time: 23 -- service time: 5
+>>>>Queue 3 has clients:
+Client 33 -- arrival time: 20 -- service time: 5
+>>>>Queue 4 has clients:
+Client 34 -- arrival time: 19 -- service time: 1
+Client 32 -- arrival time: 22 -- service time: 2
+Client 46 -- arrival time: 24 -- service time: 4
+>>>>Queue 5 has clients:
+Client 47 -- arrival time: 16 -- service time: 1
+Client 20 -- arrival time: 23 -- service time: 4
+Client 27 -- arrival time: 25 -- service time: 3
+
+>>>>>>>>>>>26 SECONDS
+>>>>Waiting clients:
+Client 43 -- arrival time: 27 -- service time: 7
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 23 -- arrival time: 23 -- service time: 1
+Client 10 -- arrival time: 25 -- service time: 7
+>>>>Queue 2 has clients:
+Client 38 -- arrival time: 23 -- service time: 4
+>>>>Queue 3 has clients:
+Client 33 -- arrival time: 20 -- service time: 4
+Client 9 -- arrival time: 26 -- service time: 3
+>>>>Queue 4 has clients:
+Client 32 -- arrival time: 22 -- service time: 2
+Client 46 -- arrival time: 24 -- service time: 4
+>>>>Queue 5 has clients:
+Client 20 -- arrival time: 23 -- service time: 4
+Client 27 -- arrival time: 25 -- service time: 3
+
+>>>>>>>>>>>27 SECONDS
+>>>>Waiting clients:
+Client 44 -- arrival time: 28 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 10 -- arrival time: 25 -- service time: 7
+>>>>Queue 2 has clients:
+Client 38 -- arrival time: 23 -- service time: 3
+Client 43 -- arrival time: 27 -- service time: 7
+>>>>Queue 3 has clients:
+Client 33 -- arrival time: 20 -- service time: 3
+Client 9 -- arrival time: 26 -- service time: 3
+>>>>Queue 4 has clients:
+Client 32 -- arrival time: 22 -- service time: 1
+Client 46 -- arrival time: 24 -- service time: 4
+>>>>Queue 5 has clients:
+Client 20 -- arrival time: 23 -- service time: 3
+Client 27 -- arrival time: 25 -- service time: 3
+
+>>>>>>>>>>>28 SECONDS
+>>>>Waiting clients:
+Client 7 -- arrival time: 29 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 17 -- arrival time: 29 -- service time: 7
+Client 39 -- arrival time: 29 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 10 -- arrival time: 25 -- service time: 6
+>>>>Queue 2 has clients:
+Client 38 -- arrival time: 23 -- service time: 2
+Client 43 -- arrival time: 27 -- service time: 7
+>>>>Queue 3 has clients:
+Client 33 -- arrival time: 20 -- service time: 2
+Client 9 -- arrival time: 26 -- service time: 3
+>>>>Queue 4 has clients:
+Client 46 -- arrival time: 24 -- service time: 4
+Client 44 -- arrival time: 28 -- service time: 3
+>>>>Queue 5 has clients:
+Client 20 -- arrival time: 23 -- service time: 2
+Client 27 -- arrival time: 25 -- service time: 3
+
+>>>>>>>>>>>29 SECONDS
+>>>>Waiting clients:
+Client 6 -- arrival time: 30 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 10 -- arrival time: 25 -- service time: 5
+>>>>Queue 2 has clients:
+Client 38 -- arrival time: 23 -- service time: 1
+Client 43 -- arrival time: 27 -- service time: 7
+>>>>Queue 3 has clients:
+Client 33 -- arrival time: 20 -- service time: 1
+Client 9 -- arrival time: 26 -- service time: 3
+Client 8 -- arrival time: 29 -- service time: 5
+>>>>Queue 4 has clients:
+Client 46 -- arrival time: 24 -- service time: 3
+Client 44 -- arrival time: 28 -- service time: 3
+Client 17 -- arrival time: 29 -- service time: 7
+>>>>Queue 5 has clients:
+Client 20 -- arrival time: 23 -- service time: 1
+Client 27 -- arrival time: 25 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 39 -- arrival time: 29 -- service time: 4
+
+>>>>>>>>>>>30 SECONDS
+>>>>Waiting clients:
+Client 5 -- arrival time: 31 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 10 -- arrival time: 25 -- service time: 4
+Client 6 -- arrival time: 30 -- service time: 6
+>>>>Queue 2 has clients:
+Client 43 -- arrival time: 27 -- service time: 7
+Client 48 -- arrival time: 30 -- service time: 3
+>>>>Queue 3 has clients:
+Client 9 -- arrival time: 26 -- service time: 3
+Client 8 -- arrival time: 29 -- service time: 5
+>>>>Queue 4 has clients:
+Client 46 -- arrival time: 24 -- service time: 2
+Client 44 -- arrival time: 28 -- service time: 3
+Client 17 -- arrival time: 29 -- service time: 7
+>>>>Queue 5 has clients:
+Client 27 -- arrival time: 25 -- service time: 3
+Client 7 -- arrival time: 29 -- service time: 2
+Client 39 -- arrival time: 29 -- service time: 4
+
+>>>>>>>>>>>31 SECONDS
+>>>>Waiting clients:
+Client 15 -- arrival time: 32 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 10 -- arrival time: 25 -- service time: 3
+Client 6 -- arrival time: 30 -- service time: 6
+>>>>Queue 2 has clients:
+Client 43 -- arrival time: 27 -- service time: 6
+Client 48 -- arrival time: 30 -- service time: 3
+>>>>Queue 3 has clients:
+Client 9 -- arrival time: 26 -- service time: 2
+Client 8 -- arrival time: 29 -- service time: 5
+Client 5 -- arrival time: 31 -- service time: 3
+>>>>Queue 4 has clients:
+Client 46 -- arrival time: 24 -- service time: 1
+Client 44 -- arrival time: 28 -- service time: 3
+Client 17 -- arrival time: 29 -- service time: 7
+>>>>Queue 5 has clients:
+Client 27 -- arrival time: 25 -- service time: 2
+Client 7 -- arrival time: 29 -- service time: 2
+Client 39 -- arrival time: 29 -- service time: 4
+Client 40 -- arrival time: 31 -- service time: 6
+
+>>>>>>>>>>>32 SECONDS
+>>>>Waiting clients:
+Client 50 -- arrival time: 33 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 10 -- arrival time: 25 -- service time: 2
+Client 6 -- arrival time: 30 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+>>>>Queue 2 has clients:
+Client 43 -- arrival time: 27 -- service time: 5
+Client 48 -- arrival time: 30 -- service time: 3
+Client 22 -- arrival time: 32 -- service time: 4
+>>>>Queue 3 has clients:
+Client 9 -- arrival time: 26 -- service time: 1
+Client 8 -- arrival time: 29 -- service time: 5
+Client 5 -- arrival time: 31 -- service time: 3
+>>>>Queue 4 has clients:
+Client 44 -- arrival time: 28 -- service time: 3
+Client 17 -- arrival time: 29 -- service time: 7
+>>>>Queue 5 has clients:
+Client 27 -- arrival time: 25 -- service time: 1
+Client 7 -- arrival time: 29 -- service time: 2
+Client 39 -- arrival time: 29 -- service time: 4
+Client 40 -- arrival time: 31 -- service time: 6
+
+>>>>>>>>>>>33 SECONDS
+>>>>Waiting clients:
+Client 26 -- arrival time: 34 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 10 -- arrival time: 25 -- service time: 1
+Client 6 -- arrival time: 30 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+>>>>Queue 2 has clients:
+Client 43 -- arrival time: 27 -- service time: 4
+Client 48 -- arrival time: 30 -- service time: 3
+Client 22 -- arrival time: 32 -- service time: 4
+>>>>Queue 3 has clients:
+Client 8 -- arrival time: 29 -- service time: 5
+Client 5 -- arrival time: 31 -- service time: 3
+Client 50 -- arrival time: 33 -- service time: 3
+>>>>Queue 4 has clients:
+Client 44 -- arrival time: 28 -- service time: 2
+Client 17 -- arrival time: 29 -- service time: 7
+>>>>Queue 5 has clients:
+Client 7 -- arrival time: 29 -- service time: 2
+Client 39 -- arrival time: 29 -- service time: 4
+Client 40 -- arrival time: 31 -- service time: 6
+
+>>>>>>>>>>>34 SECONDS
+>>>>Waiting clients:
+Client 11 -- arrival time: 35 -- service time: 5
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 6 -- arrival time: 30 -- service time: 6
+Client 15 -- arrival time: 32 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+>>>>Queue 2 has clients:
+Client 43 -- arrival time: 27 -- service time: 3
+Client 48 -- arrival time: 30 -- service time: 3
+Client 22 -- arrival time: 32 -- service time: 4
+>>>>Queue 3 has clients:
+Client 8 -- arrival time: 29 -- service time: 4
+Client 5 -- arrival time: 31 -- service time: 3
+Client 50 -- arrival time: 33 -- service time: 3
+>>>>Queue 4 has clients:
+Client 44 -- arrival time: 28 -- service time: 1
+Client 17 -- arrival time: 29 -- service time: 7
+Client 26 -- arrival time: 34 -- service time: 2
+>>>>Queue 5 has clients:
+Client 7 -- arrival time: 29 -- service time: 1
+Client 39 -- arrival time: 29 -- service time: 4
+Client 40 -- arrival time: 31 -- service time: 6
+
+>>>>>>>>>>>35 SECONDS
+>>>>Waiting clients:
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 6 -- arrival time: 30 -- service time: 5
+Client 15 -- arrival time: 32 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+>>>>Queue 2 has clients:
+Client 43 -- arrival time: 27 -- service time: 2
+Client 48 -- arrival time: 30 -- service time: 3
+Client 22 -- arrival time: 32 -- service time: 4
+>>>>Queue 3 has clients:
+Client 8 -- arrival time: 29 -- service time: 3
+Client 5 -- arrival time: 31 -- service time: 3
+Client 50 -- arrival time: 33 -- service time: 3
+>>>>Queue 4 has clients:
+Client 17 -- arrival time: 29 -- service time: 7
+Client 26 -- arrival time: 34 -- service time: 2
+Client 11 -- arrival time: 35 -- service time: 5
+>>>>Queue 5 has clients:
+Client 39 -- arrival time: 29 -- service time: 4
+Client 40 -- arrival time: 31 -- service time: 6
+
+>>>>>>>>>>>36 SECONDS
+>>>>Waiting clients:
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 6 -- arrival time: 30 -- service time: 4
+Client 15 -- arrival time: 32 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+>>>>Queue 2 has clients:
+Client 43 -- arrival time: 27 -- service time: 1
+Client 48 -- arrival time: 30 -- service time: 3
+Client 22 -- arrival time: 32 -- service time: 4
+>>>>Queue 3 has clients:
+Client 8 -- arrival time: 29 -- service time: 2
+Client 5 -- arrival time: 31 -- service time: 3
+Client 50 -- arrival time: 33 -- service time: 3
+>>>>Queue 4 has clients:
+Client 17 -- arrival time: 29 -- service time: 6
+Client 26 -- arrival time: 34 -- service time: 2
+Client 11 -- arrival time: 35 -- service time: 5
+>>>>Queue 5 has clients:
+Client 39 -- arrival time: 29 -- service time: 3
+Client 40 -- arrival time: 31 -- service time: 6
+
+>>>>>>>>>>>37 SECONDS
+>>>>Waiting clients:
+Client 2 -- arrival time: 38 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 6 -- arrival time: 30 -- service time: 3
+Client 15 -- arrival time: 32 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+>>>>Queue 2 has clients:
+Client 48 -- arrival time: 30 -- service time: 3
+Client 22 -- arrival time: 32 -- service time: 4
+>>>>Queue 3 has clients:
+Client 8 -- arrival time: 29 -- service time: 1
+Client 5 -- arrival time: 31 -- service time: 3
+Client 50 -- arrival time: 33 -- service time: 3
+>>>>Queue 4 has clients:
+Client 17 -- arrival time: 29 -- service time: 5
+Client 26 -- arrival time: 34 -- service time: 2
+Client 11 -- arrival time: 35 -- service time: 5
+>>>>Queue 5 has clients:
+Client 39 -- arrival time: 29 -- service time: 2
+Client 40 -- arrival time: 31 -- service time: 6
+
+>>>>>>>>>>>38 SECONDS
+>>>>Waiting clients:
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 1 has clients:
+Client 6 -- arrival time: 30 -- service time: 2
+Client 15 -- arrival time: 32 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+>>>>Queue 2 has clients:
+Client 48 -- arrival time: 30 -- service time: 2
+Client 22 -- arrival time: 32 -- service time: 4
+>>>>Queue 3 has clients:
+Client 5 -- arrival time: 31 -- service time: 3
+Client 50 -- arrival time: 33 -- service time: 3
+Client 2 -- arrival time: 38 -- service time: 3
+>>>>Queue 4 has clients:
+Client 17 -- arrival time: 29 -- service time: 4
+Client 26 -- arrival time: 34 -- service time: 2
+Client 11 -- arrival time: 35 -- service time: 5
+>>>>Queue 5 has clients:
+Client 39 -- arrival time: 29 -- service time: 1
+Client 40 -- arrival time: 31 -- service time: 6
+Client 45 -- arrival time: 38 -- service time: 3
+
+>>>>>>>>>>>39 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 has clients:
+Client 6 -- arrival time: 30 -- service time: 1
+Client 15 -- arrival time: 32 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+>>>>Queue 2 has clients:
+Client 48 -- arrival time: 30 -- service time: 1
+Client 22 -- arrival time: 32 -- service time: 4
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 3 has clients:
+Client 5 -- arrival time: 31 -- service time: 2
+Client 50 -- arrival time: 33 -- service time: 3
+Client 2 -- arrival time: 38 -- service time: 3
+>>>>Queue 4 has clients:
+Client 17 -- arrival time: 29 -- service time: 3
+Client 26 -- arrival time: 34 -- service time: 2
+Client 11 -- arrival time: 35 -- service time: 5
+>>>>Queue 5 has clients:
+Client 40 -- arrival time: 31 -- service time: 6
+Client 45 -- arrival time: 38 -- service time: 3
+
+>>>>>>>>>>>40 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 has clients:
+Client 15 -- arrival time: 32 -- service time: 2
+Client 36 -- arrival time: 34 -- service time: 4
+>>>>Queue 2 has clients:
+Client 22 -- arrival time: 32 -- service time: 4
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 3 has clients:
+Client 5 -- arrival time: 31 -- service time: 1
+Client 50 -- arrival time: 33 -- service time: 3
+Client 2 -- arrival time: 38 -- service time: 3
+>>>>Queue 4 has clients:
+Client 17 -- arrival time: 29 -- service time: 2
+Client 26 -- arrival time: 34 -- service time: 2
+Client 11 -- arrival time: 35 -- service time: 5
+>>>>Queue 5 has clients:
+Client 40 -- arrival time: 31 -- service time: 5
+Client 45 -- arrival time: 38 -- service time: 3
+
+>>>>>>>>>>>41 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 has clients:
+Client 15 -- arrival time: 32 -- service time: 1
+Client 36 -- arrival time: 34 -- service time: 4
+>>>>Queue 2 has clients:
+Client 22 -- arrival time: 32 -- service time: 3
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 3 has clients:
+Client 50 -- arrival time: 33 -- service time: 3
+Client 2 -- arrival time: 38 -- service time: 3
+>>>>Queue 4 has clients:
+Client 17 -- arrival time: 29 -- service time: 1
+Client 26 -- arrival time: 34 -- service time: 2
+Client 11 -- arrival time: 35 -- service time: 5
+>>>>Queue 5 has clients:
+Client 40 -- arrival time: 31 -- service time: 4
+Client 45 -- arrival time: 38 -- service time: 3
+
+>>>>>>>>>>>42 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 has clients:
+Client 36 -- arrival time: 34 -- service time: 4
+>>>>Queue 2 has clients:
+Client 22 -- arrival time: 32 -- service time: 2
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 3 has clients:
+Client 50 -- arrival time: 33 -- service time: 2
+Client 2 -- arrival time: 38 -- service time: 3
+>>>>Queue 4 has clients:
+Client 26 -- arrival time: 34 -- service time: 2
+Client 11 -- arrival time: 35 -- service time: 5
+>>>>Queue 5 has clients:
+Client 40 -- arrival time: 31 -- service time: 3
+Client 45 -- arrival time: 38 -- service time: 3
+
+>>>>>>>>>>>43 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 has clients:
+Client 36 -- arrival time: 34 -- service time: 3
+>>>>Queue 2 has clients:
+Client 22 -- arrival time: 32 -- service time: 1
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 3 has clients:
+Client 50 -- arrival time: 33 -- service time: 1
+Client 2 -- arrival time: 38 -- service time: 3
+>>>>Queue 4 has clients:
+Client 26 -- arrival time: 34 -- service time: 1
+Client 11 -- arrival time: 35 -- service time: 5
+>>>>Queue 5 has clients:
+Client 40 -- arrival time: 31 -- service time: 2
+Client 45 -- arrival time: 38 -- service time: 3
+
+>>>>>>>>>>>44 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 has clients:
+Client 36 -- arrival time: 34 -- service time: 2
+>>>>Queue 2 has clients:
+Client 28 -- arrival time: 39 -- service time: 6
+>>>>Queue 3 has clients:
+Client 2 -- arrival time: 38 -- service time: 3
+>>>>Queue 4 has clients:
+Client 11 -- arrival time: 35 -- service time: 5
+>>>>Queue 5 has clients:
+Client 40 -- arrival time: 31 -- service time: 1
+Client 45 -- arrival time: 38 -- service time: 3
+
+>>>>>>>>>>>45 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 has clients:
+Client 36 -- arrival time: 34 -- service time: 1
+>>>>Queue 2 has clients:
+Client 28 -- arrival time: 39 -- service time: 5
+>>>>Queue 3 has clients:
+Client 2 -- arrival time: 38 -- service time: 2
+>>>>Queue 4 has clients:
+Client 11 -- arrival time: 35 -- service time: 4
+>>>>Queue 5 has clients:
+Client 45 -- arrival time: 38 -- service time: 3
+
+>>>>>>>>>>>46 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 has clients:
+Client 28 -- arrival time: 39 -- service time: 4
+>>>>Queue 3 has clients:
+Client 2 -- arrival time: 38 -- service time: 1
+>>>>Queue 4 has clients:
+Client 11 -- arrival time: 35 -- service time: 3
+>>>>Queue 5 has clients:
+Client 45 -- arrival time: 38 -- service time: 2
+
+>>>>>>>>>>>47 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 has clients:
+Client 28 -- arrival time: 39 -- service time: 3
+>>>>Queue 3 is empty
+>>>>Queue 4 has clients:
+Client 11 -- arrival time: 35 -- service time: 2
+>>>>Queue 5 has clients:
+Client 45 -- arrival time: 38 -- service time: 1
+
+>>>>>>>>>>>48 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 has clients:
+Client 28 -- arrival time: 39 -- service time: 2
+>>>>Queue 3 is empty
+>>>>Queue 4 has clients:
+Client 11 -- arrival time: 35 -- service time: 1
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>49 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 has clients:
+Client 28 -- arrival time: 39 -- service time: 1
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>50 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>51 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>52 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>53 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>54 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>55 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>56 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>57 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>58 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>59 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+
+>>>>>>>>>>>60 SECONDS
+>>>>Waiting clients:
+>>>>Queue 1 is empty
+>>>>Queue 2 is empty
+>>>>Queue 3 is empty
+>>>>Queue 4 is empty
+>>>>Queue 5 is empty
+SIMULATION ENDED.
+
